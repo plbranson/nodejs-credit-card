@@ -1,0 +1,36 @@
+{
+  "name": "nodejs-credit-card",
+  "version": "1.0.0",
+  "description": "NodeJS Credit Card Reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plbranson/nodejs-credit-card.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "cors",
+    "dotenv",
+    "helmet",
+    "express",
+    "javascript"
+  ],
+  "author": "Patrick L. Branson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/plbranson/nodejs-credit-card/issues"
+  },
+  "homepage": "https://github.com/plbranson/nodejs-credit-card#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.0",
+    "morgan": "^1.10.0"
+  }
+}
